@@ -445,3 +445,19 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+=======================================================================
+ADDITIONAL RESTRICTIONS (补充条款):
+1. 【竞赛禁止】禁止在任何编程竞赛或在线判题系统（包括但不限于 ICPC、Codeforces、AtCoder、LeetCode 竞赛等）中使用本代码，
+   无论是否涉及商业行为。违反者将视为侵犯版权。
+
+2. 【强制署名】任何衍生作品必须在显著位置注明原作者信息：
+   - 源代码中保留本文件头部的版权声明；
+   - 文档/README 中包含原作者姓名（Transparent_fish）和项目链接。
+
+3. 【开源约束】基于本项目的修改或衍生作品必须以相同协议（CC BY-NC-SA 4.0）开源，
+   不得闭源或改用其他许可证。
+
+=======================================================================
+注：本附加条款是 CC BY-NC-SA 4.0 的补充，若与协议正文冲突，以附加条款为准。
+

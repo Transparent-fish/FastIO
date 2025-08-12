@@ -46,6 +46,6 @@ A: 为保证竞赛公平性，所有选手应使用标准I/O方法。
 Q: 如何贡献代码？  
 A: 遵循AGPL-3.0协议，提交Pull Request即可。
 
-> 更多问题请提交 [Issues](https://github.com/你的仓库/issues)
+> 更多问题请提交 [Issues](https://github.com/Transparent-fish/code/issues)
 
 2. 在LICENSE文件末尾附加竞赛限制条款（如之前讨论的方案）

@@ -3,6 +3,7 @@
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![竞赛禁止](https://img.shields.io/badge/竞赛使用-禁止-red)
 ![训练专用](https://img.shields.io/badge/用途-算法训练-9cf)
+![署名要求](https://img.shields.io/badge/署名-必须保留-brightgreen)
 
 专为算法训练设计的高效 I/O 库，**禁止在任何编程竞赛中使用**。
 
